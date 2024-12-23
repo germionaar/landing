@@ -20,6 +20,7 @@ export default {
       primary: "#4CAF4F",
       "neutral-d-grey": "#4D4D4D",
       silver: "#F5F7FA",
+      "neutral-l-grey": "#89939E",
     },
     extend: {
       fontFamily: {
